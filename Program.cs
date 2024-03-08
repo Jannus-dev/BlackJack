@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("");
+        Console.WriteLine("\u263A Welcome to BlackJack! \ud83c");
     }
 }
