@@ -6,6 +6,9 @@
 > [!IMPORTANT]
 > Dit Project is net pas begonnen en word de komende tijd verder uitgewerkt.
 
+>  [!WARNING]
+> Helaas is het niet gelukt om de daatwerkelijke code te kunnen maken door moeite met het ontwerp proces.
+
 ## Trello
 Via mijn [Trello](https://trello.com/invite/b/moYVzSOH/ATTI82f4c7d6f1cef3f12a19caa5a6be80c5E3655E45/blackjack) bord kan je de voortgang van het project volgen. Hierin staan alle taken die ik nog moet doen en de taken die ik al gedaan heb. Ook kan je hierin zien wat ik nog van plan ben om te gaan doen.
 
